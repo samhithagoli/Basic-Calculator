@@ -1,0 +1,20 @@
+.display {
+    margin-bottom: 20px;
+    background: #222;
+    color: white;
+    font-size: 2rem;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: right;
+  }
+  
+  .input {
+    min-height: 40px;
+  }
+  
+  .result {
+    min-height: 20px;
+    font-size: 20rem;
+    color: #0f0;
+  }
+  
